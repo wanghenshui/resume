@@ -23,16 +23,16 @@
 ## 项目经历
 
 1. 腾讯 - 云原生分布式多模型KV存储
-    * 基于多种引擎 rocksdb/fasterkv编码KV实现存储能力
-    * 基于multi-raft的多租户模式，平摊成本
+    * 基于多种引擎 rocksdb/fasterkv编码KV实现存储能力,multi-raft多副本保证可用性
+    * 基于k8s的多租户模式，平摊成本
     * 支持多种存储模型，简单KV，redis类型，复杂key-key-row，时序，宽表，图等等
     * 探索更多的编码模型,以及新技术io_uring/coroutine(c++20)
-    * PB级数据，P99<10ms,成功率 > 99.9%
+    * PB级数据，P999<10ms,成功率 > 99.999%
 
 2. 腾讯 - 数据库导入平台建设
-    * 基于多种引擎 rocksdb/fasterkv，接入多种数据平台，实现离线构建-导入数据库上线
+    * 基于多种引擎 rocksdb/fasterkv，接入多种数据平台，实现离线构建-入库上线
     * 优化调度系统，CPU利用率内存利用率 > 50%
-    * 每月上万次导入。成功率>99.5%
+    * 每月几万次导入。成功率>99.9%
 
 3. 华为 - CloudBU - GaussDB for Redis 原型开发
     * 多模型NoSQL数据库GaussDB redis接口开发。适配上云
