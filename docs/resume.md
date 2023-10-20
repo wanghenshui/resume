@@ -12,7 +12,7 @@
 * 腾讯科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.10~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; TEG技术工程事业群-云架构平台部
 * 华为技术有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.10~2020.09&emsp;&emsp;&emsp;&emsp;&emsp; CloudBU数据库服务产品部
 * 海能达科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2016.07~2018.09&emsp;&emsp;&emsp;&emsp;&emsp; 系统软件设计开发部
-* 吉林大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2012.09~2016.07&emsp;&emsp;&emsp;&emsp;&emsp; 电子信息工程系-本科 16年毕业 
+* 吉林大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2012.09~2016.07&emsp;&emsp;&emsp;&emsp;&emsp; 电子信息工程系-本科
 
 ## 专业技能
 
