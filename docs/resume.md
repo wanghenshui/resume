@@ -16,8 +16,8 @@
 
 ## 专业技能
 
-* 熟练C++，Go会一点
-* 数据库方向: 熟悉RocksDB, Redis, MySql, 了解MongoDB
+* 熟悉C++，Go会一点
+* 数据库方向: 熟悉RocksDB, Redis, 以及相关生态(kvrocks/pika)，了解Mysql，MongoDB, tidb, clickhouse
 
 
 ## 项目经历
