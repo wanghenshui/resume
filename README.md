@@ -4,7 +4,7 @@
 
 强迫症需要PDF的朋友可以网页打印 - 另存为PDF
 
-[或者下载这个可能过时的版本](https://wanghenshui.github.io/resume/docs/resume.pdf)
+[或者下载这个可能过时的版本](https://github.com/wanghenshui/resume/blob/dev/docs/resume.pdf)
 
 ### 使用模板
 
